@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -1.64,
+        "lat": 42.8
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 13.14,
+        "feels_like": 12.02,
+        "temp_min": 12.96,
+        "temp_max": 13.14,
+        "pressure": 1034,
+        "humidity": 58
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.72,
+        "deg": 350
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1708354994,
+    "sys": {
+        "type": 1,
+        "id": 6417,
+        "country": "ES",
+        "sunrise": 1708325955,
+        "sunset": 1708364518
+    },
+    "timezone": 3600,
+    "id": 6359749,
+    "name": "Pamplona",
+    "cod": 200
+}
